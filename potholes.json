@@ -1,0 +1,1586 @@
+[
+  {
+    "id": "RW-0001",
+    "frame": 105,
+    "severity": "Critical",
+    "confidence": 0.253,
+    "status": "pending",
+    "timestamp": "2026-04-03T21:36:29",
+    "deadline": "2026-04-10",
+    "ward": "Koramangala, Bengaluru",
+    "politician": "Rizwan Arshad",
+    "bbox": {
+      "x1": 647,
+      "y1": 363,
+      "x2": 958,
+      "y2": 567,
+      "area_px": 63444
+    },
+    "gps": {
+      "lat": 12.942749,
+      "lng": 77.627387
+    }
+  },
+  {
+    "id": "RW-0002",
+    "frame": 115,
+    "severity": "Critical",
+    "confidence": 0.416,
+    "status": "pending",
+    "timestamp": "2026-04-03T21:36:29",
+    "deadline": "2026-04-10",
+    "ward": "Koramangala, Bengaluru",
+    "politician": "Rizwan Arshad",
+    "bbox": {
+      "x1": 703,
+      "y1": 419,
+      "x2": 1051,
+      "y2": 576,
+      "area_px": 54636
+    },
+    "gps": {
+      "lat": 12.932906,
+      "lng": 77.620306
+    }
+  },
+  {
+    "id": "RW-0003",
+    "frame": 120,
+    "severity": "Critical",
+    "confidence": 0.384,
+    "status": "pending",
+    "timestamp": "2026-04-03T21:36:29",
+    "deadline": "2026-04-10",
+    "ward": "Koramangala, Bengaluru",
+    "politician": "Sowmya Reddy",
+    "bbox": {
+      "x1": 697,
+      "y1": 469,
+      "x2": 1066,
+      "y2": 571,
+      "area_px": 37638
+    },
+    "gps": {
+      "lat": 12.932674,
+      "lng": 77.627298
+    }
+  },
+  {
+    "id": "RW-0004",
+    "frame": 125,
+    "severity": "Critical",
+    "confidence": 0.305,
+    "status": "pending",
+    "timestamp": "2026-04-03T21:36:29",
+    "deadline": "2026-04-10",
+    "ward": "Koramangala, Bengaluru",
+    "politician": "Rizwan Arshad",
+    "bbox": {
+      "x1": 736,
+      "y1": 482,
+      "x2": 1057,
+      "y2": 565,
+      "area_px": 26643
+    },
+    "gps": {
+      "lat": 12.936107,
+      "lng": 77.623085
+    }
+  },
+  {
+    "id": "RW-0005",
+    "frame": 230,
+    "severity": "Critical",
+    "confidence": 0.332,
+    "status": "pending",
+    "timestamp": "2026-04-03T21:36:31",
+    "deadline": "2026-04-10",
+    "ward": "Koramangala, Bengaluru",
+    "politician": "N A Haris",
+    "bbox": {
+      "x1": 523,
+      "y1": 185,
+      "x2": 924,
+      "y2": 347,
+      "area_px": 64962
+    },
+    "gps": {
+      "lat": 12.938513,
+      "lng": 77.618048
+    }
+  },
+  {
+    "id": "RW-0006",
+    "frame": 235,
+    "severity": "Critical",
+    "confidence": 0.257,
+    "status": "pending",
+    "timestamp": "2026-04-03T21:36:31",
+    "deadline": "2026-04-10",
+    "ward": "Koramangala, Bengaluru",
+    "politician": "N A Haris",
+    "bbox": {
+      "x1": 523,
+      "y1": 192,
+      "x2": 940,
+      "y2": 356,
+      "area_px": 68388
+    },
+    "gps": {
+      "lat": 12.936637,
+      "lng": 77.630005
+    }
+  },
+  {
+    "id": "RW-0007",
+    "frame": 240,
+    "severity": "Critical",
+    "confidence": 0.477,
+    "status": "pending",
+    "timestamp": "2026-04-03T21:36:31",
+    "deadline": "2026-04-10",
+    "ward": "Koramangala, Bengaluru",
+    "politician": "N A Haris",
+    "bbox": {
+      "x1": 511,
+      "y1": 208,
+      "x2": 931,
+      "y2": 366,
+      "area_px": 66360
+    },
+    "gps": {
+      "lat": 12.92866,
+      "lng": 77.620881
+    }
+  },
+  {
+    "id": "RW-0008",
+    "frame": 250,
+    "severity": "Critical",
+    "confidence": 0.373,
+    "status": "pending",
+    "timestamp": "2026-04-03T21:36:31",
+    "deadline": "2026-04-10",
+    "ward": "Koramangala, Bengaluru",
+    "politician": "Rizwan Arshad",
+    "bbox": {
+      "x1": 527,
+      "y1": 235,
+      "x2": 981,
+      "y2": 427,
+      "area_px": 87168
+    },
+    "gps": {
+      "lat": 12.939621,
+      "lng": 77.618876
+    }
+  },
+  {
+    "id": "RW-0009",
+    "frame": 255,
+    "severity": "Critical",
+    "confidence": 0.354,
+    "status": "pending",
+    "timestamp": "2026-04-03T21:36:32",
+    "deadline": "2026-04-10",
+    "ward": "Koramangala, Bengaluru",
+    "politician": "Ramalinga Reddy",
+    "bbox": {
+      "x1": 530,
+      "y1": 232,
+      "x2": 1003,
+      "y2": 435,
+      "area_px": 96019
+    },
+    "gps": {
+      "lat": 12.937324,
+      "lng": 77.622285
+    }
+  },
+  {
+    "id": "RW-0010",
+    "frame": 260,
+    "severity": "Critical",
+    "confidence": 0.391,
+    "status": "pending",
+    "timestamp": "2026-04-03T21:36:32",
+    "deadline": "2026-04-10",
+    "ward": "Koramangala, Bengaluru",
+    "politician": "Ramalinga Reddy",
+    "bbox": {
+      "x1": 516,
+      "y1": 203,
+      "x2": 998,
+      "y2": 426,
+      "area_px": 107486
+    },
+    "gps": {
+      "lat": 12.933874,
+      "lng": 77.625948
+    }
+  },
+  {
+    "id": "RW-0011",
+    "frame": 265,
+    "severity": "Critical",
+    "confidence": 0.36,
+    "status": "pending",
+    "timestamp": "2026-04-03T21:36:32",
+    "deadline": "2026-04-10",
+    "ward": "Koramangala, Bengaluru",
+    "politician": "Sowmya Reddy",
+    "bbox": {
+      "x1": 487,
+      "y1": 192,
+      "x2": 965,
+      "y2": 429,
+      "area_px": 113286
+    },
+    "gps": {
+      "lat": 12.940905,
+      "lng": 77.618143
+    }
+  },
+  {
+    "id": "RW-0012",
+    "frame": 270,
+    "severity": "Critical",
+    "confidence": 0.471,
+    "status": "pending",
+    "timestamp": "2026-04-03T21:36:32",
+    "deadline": "2026-04-10",
+    "ward": "Koramangala, Bengaluru",
+    "politician": "Sowmya Reddy",
+    "bbox": {
+      "x1": 433,
+      "y1": 176,
+      "x2": 948,
+      "y2": 419,
+      "area_px": 125145
+    },
+    "gps": {
+      "lat": 12.936246,
+      "lng": 77.624059
+    }
+  },
+  {
+    "id": "RW-0013",
+    "frame": 275,
+    "severity": "Critical",
+    "confidence": 0.465,
+    "status": "pending",
+    "timestamp": "2026-04-03T21:36:32",
+    "deadline": "2026-04-10",
+    "ward": "Koramangala, Bengaluru",
+    "politician": "Sowmya Reddy",
+    "bbox": {
+      "x1": 395,
+      "y1": 155,
+      "x2": 930,
+      "y2": 420,
+      "area_px": 141775
+    },
+    "gps": {
+      "lat": 12.930381,
+      "lng": 77.628259
+    }
+  },
+  {
+    "id": "RW-0014",
+    "frame": 280,
+    "severity": "Critical",
+    "confidence": 0.252,
+    "status": "pending",
+    "timestamp": "2026-04-03T21:36:32",
+    "deadline": "2026-04-10",
+    "ward": "Koramangala, Bengaluru",
+    "politician": "N A Haris",
+    "bbox": {
+      "x1": 381,
+      "y1": 150,
+      "x2": 941,
+      "y2": 444,
+      "area_px": 164640
+    },
+    "gps": {
+      "lat": 12.936439,
+      "lng": 77.618809
+    }
+  },
+  {
+    "id": "RW-0015",
+    "frame": 315,
+    "severity": "Critical",
+    "confidence": 0.255,
+    "status": "pending",
+    "timestamp": "2026-04-03T21:36:33",
+    "deadline": "2026-04-10",
+    "ward": "Koramangala, Bengaluru",
+    "politician": "Ramalinga Reddy",
+    "bbox": {
+      "x1": 224,
+      "y1": 107,
+      "x2": 935,
+      "y2": 499,
+      "area_px": 278712
+    },
+    "gps": {
+      "lat": 12.927833,
+      "lng": 77.623352
+    }
+  },
+  {
+    "id": "RW-0016",
+    "frame": 330,
+    "severity": "Critical",
+    "confidence": 0.408,
+    "status": "pending",
+    "timestamp": "2026-04-03T21:36:33",
+    "deadline": "2026-04-10",
+    "ward": "Koramangala, Bengaluru",
+    "politician": "Sowmya Reddy",
+    "bbox": {
+      "x1": 355,
+      "y1": 252,
+      "x2": 1065,
+      "y2": 576,
+      "area_px": 230040
+    },
+    "gps": {
+      "lat": 12.930156,
+      "lng": 77.631475
+    }
+  },
+  {
+    "id": "RW-0017",
+    "frame": 335,
+    "severity": "Critical",
+    "confidence": 0.582,
+    "status": "pending",
+    "timestamp": "2026-04-03T21:36:33",
+    "deadline": "2026-04-10",
+    "ward": "Koramangala, Bengaluru",
+    "politician": "N A Haris",
+    "bbox": {
+      "x1": 412,
+      "y1": 300,
+      "x2": 1101,
+      "y2": 570,
+      "area_px": 186030
+    },
+    "gps": {
+      "lat": 12.942844,
+      "lng": 77.628213
+    }
+  },
+  {
+    "id": "RW-0018",
+    "frame": 340,
+    "severity": "Critical",
+    "confidence": 0.452,
+    "status": "pending",
+    "timestamp": "2026-04-03T21:36:33",
+    "deadline": "2026-04-10",
+    "ward": "Koramangala, Bengaluru",
+    "politician": "Sowmya Reddy",
+    "bbox": {
+      "x1": 486,
+      "y1": 354,
+      "x2": 1148,
+      "y2": 572,
+      "area_px": 144316
+    },
+    "gps": {
+      "lat": 12.93046,
+      "lng": 77.62952
+    }
+  },
+  {
+    "id": "RW-0019",
+    "frame": 345,
+    "severity": "Critical",
+    "confidence": 0.481,
+    "status": "pending",
+    "timestamp": "2026-04-03T21:36:33",
+    "deadline": "2026-04-10",
+    "ward": "Koramangala, Bengaluru",
+    "politician": "Rizwan Arshad",
+    "bbox": {
+      "x1": 541,
+      "y1": 417,
+      "x2": 1139,
+      "y2": 575,
+      "area_px": 94484
+    },
+    "gps": {
+      "lat": 12.943166,
+      "lng": 77.626892
+    }
+  },
+  {
+    "id": "RW-0020",
+    "frame": 350,
+    "severity": "Critical",
+    "confidence": 0.277,
+    "status": "pending",
+    "timestamp": "2026-04-03T21:36:34",
+    "deadline": "2026-04-10",
+    "ward": "Koramangala, Bengaluru",
+    "politician": "Ramalinga Reddy",
+    "bbox": {
+      "x1": 701,
+      "y1": 482,
+      "x2": 1130,
+      "y2": 564,
+      "area_px": 35178
+    },
+    "gps": {
+      "lat": 12.942029,
+      "lng": 77.622141
+    }
+  },
+  {
+    "id": "RW-0021",
+    "frame": 445,
+    "severity": "Critical",
+    "confidence": 0.271,
+    "status": "pending",
+    "timestamp": "2026-04-03T21:36:35",
+    "deadline": "2026-04-10",
+    "ward": "Koramangala, Bengaluru",
+    "politician": "Ramalinga Reddy",
+    "bbox": {
+      "x1": 329,
+      "y1": 204,
+      "x2": 585,
+      "y2": 436,
+      "area_px": 59392
+    },
+    "gps": {
+      "lat": 12.941538,
+      "lng": 77.616827
+    }
+  },
+  {
+    "id": "RW-0022",
+    "frame": 450,
+    "severity": "Critical",
+    "confidence": 0.449,
+    "status": "pending",
+    "timestamp": "2026-04-03T21:36:36",
+    "deadline": "2026-04-10",
+    "ward": "Koramangala, Bengaluru",
+    "politician": "Sowmya Reddy",
+    "bbox": {
+      "x1": 313,
+      "y1": 232,
+      "x2": 579,
+      "y2": 455,
+      "area_px": 59318
+    },
+    "gps": {
+      "lat": 12.940528,
+      "lng": 77.62168
+    }
+  },
+  {
+    "id": "RW-0023",
+    "frame": 455,
+    "severity": "Critical",
+    "confidence": 0.361,
+    "status": "pending",
+    "timestamp": "2026-04-03T21:36:36",
+    "deadline": "2026-04-10",
+    "ward": "Koramangala, Bengaluru",
+    "politician": "Ramalinga Reddy",
+    "bbox": {
+      "x1": 263,
+      "y1": 235,
+      "x2": 562,
+      "y2": 497,
+      "area_px": 78338
+    },
+    "gps": {
+      "lat": 12.936806,
+      "lng": 77.61995
+    }
+  },
+  {
+    "id": "RW-0024",
+    "frame": 460,
+    "severity": "Critical",
+    "confidence": 0.424,
+    "status": "pending",
+    "timestamp": "2026-04-03T21:36:36",
+    "deadline": "2026-04-10",
+    "ward": "Koramangala, Bengaluru",
+    "politician": "Sowmya Reddy",
+    "bbox": {
+      "x1": 247,
+      "y1": 238,
+      "x2": 571,
+      "y2": 537,
+      "area_px": 96876
+    },
+    "gps": {
+      "lat": 12.931614,
+      "lng": 77.62259
+    }
+  },
+  {
+    "id": "RW-0025",
+    "frame": 465,
+    "severity": "Critical",
+    "confidence": 0.455,
+    "status": "pending",
+    "timestamp": "2026-04-03T21:36:36",
+    "deadline": "2026-04-10",
+    "ward": "Koramangala, Bengaluru",
+    "politician": "N A Haris",
+    "bbox": {
+      "x1": 233,
+      "y1": 240,
+      "x2": 584,
+      "y2": 557,
+      "area_px": 111267
+    },
+    "gps": {
+      "lat": 12.934235,
+      "lng": 77.630519
+    }
+  },
+  {
+    "id": "RW-0026",
+    "frame": 470,
+    "severity": "Critical",
+    "confidence": 0.371,
+    "status": "pending",
+    "timestamp": "2026-04-03T21:36:36",
+    "deadline": "2026-04-10",
+    "ward": "Koramangala, Bengaluru",
+    "politician": "Rizwan Arshad",
+    "bbox": {
+      "x1": 234,
+      "y1": 247,
+      "x2": 601,
+      "y2": 568,
+      "area_px": 117807
+    },
+    "gps": {
+      "lat": 12.940077,
+      "lng": 77.619171
+    }
+  },
+  {
+    "id": "RW-0027",
+    "frame": 475,
+    "severity": "Critical",
+    "confidence": 0.324,
+    "status": "pending",
+    "timestamp": "2026-04-03T21:36:36",
+    "deadline": "2026-04-10",
+    "ward": "Koramangala, Bengaluru",
+    "politician": "Ramalinga Reddy",
+    "bbox": {
+      "x1": 224,
+      "y1": 254,
+      "x2": 635,
+      "y2": 565,
+      "area_px": 127821
+    },
+    "gps": {
+      "lat": 12.941489,
+      "lng": 77.629302
+    }
+  },
+  {
+    "id": "RW-0028",
+    "frame": 480,
+    "severity": "Critical",
+    "confidence": 0.448,
+    "status": "pending",
+    "timestamp": "2026-04-03T21:36:36",
+    "deadline": "2026-04-10",
+    "ward": "Koramangala, Bengaluru",
+    "politician": "Ramalinga Reddy",
+    "bbox": {
+      "x1": 207,
+      "y1": 250,
+      "x2": 651,
+      "y2": 576,
+      "area_px": 144744
+    },
+    "gps": {
+      "lat": 12.935857,
+      "lng": 77.626926
+    }
+  },
+  {
+    "id": "RW-0029",
+    "frame": 485,
+    "severity": "Critical",
+    "confidence": 0.423,
+    "status": "pending",
+    "timestamp": "2026-04-03T21:36:36",
+    "deadline": "2026-04-10",
+    "ward": "Koramangala, Bengaluru",
+    "politician": "Rizwan Arshad",
+    "bbox": {
+      "x1": 190,
+      "y1": 261,
+      "x2": 649,
+      "y2": 576,
+      "area_px": 144585
+    },
+    "gps": {
+      "lat": 12.933635,
+      "lng": 77.618087
+    }
+  },
+  {
+    "id": "RW-0030",
+    "frame": 490,
+    "severity": "Critical",
+    "confidence": 0.632,
+    "status": "pending",
+    "timestamp": "2026-04-03T21:36:36",
+    "deadline": "2026-04-10",
+    "ward": "Koramangala, Bengaluru",
+    "politician": "Rizwan Arshad",
+    "bbox": {
+      "x1": 156,
+      "y1": 283,
+      "x2": 649,
+      "y2": 569,
+      "area_px": 140998
+    },
+    "gps": {
+      "lat": 12.936596,
+      "lng": 77.622186
+    }
+  },
+  {
+    "id": "RW-0031",
+    "frame": 495,
+    "severity": "Critical",
+    "confidence": 0.66,
+    "status": "pending",
+    "timestamp": "2026-04-03T21:36:36",
+    "deadline": "2026-04-10",
+    "ward": "Koramangala, Bengaluru",
+    "politician": "Rizwan Arshad",
+    "bbox": {
+      "x1": 173,
+      "y1": 302,
+      "x2": 624,
+      "y2": 568,
+      "area_px": 119966
+    },
+    "gps": {
+      "lat": 12.933566,
+      "lng": 77.632331
+    }
+  },
+  {
+    "id": "RW-0032",
+    "frame": 500,
+    "severity": "Critical",
+    "confidence": 0.645,
+    "status": "pending",
+    "timestamp": "2026-04-03T21:36:37",
+    "deadline": "2026-04-10",
+    "ward": "Koramangala, Bengaluru",
+    "politician": "N A Haris",
+    "bbox": {
+      "x1": 146,
+      "y1": 308,
+      "x2": 618,
+      "y2": 562,
+      "area_px": 119888
+    },
+    "gps": {
+      "lat": 12.941106,
+      "lng": 77.623064
+    }
+  },
+  {
+    "id": "RW-0033",
+    "frame": 505,
+    "severity": "Critical",
+    "confidence": 0.421,
+    "status": "pending",
+    "timestamp": "2026-04-03T21:36:37",
+    "deadline": "2026-04-10",
+    "ward": "Koramangala, Bengaluru",
+    "politician": "Sowmya Reddy",
+    "bbox": {
+      "x1": 143,
+      "y1": 320,
+      "x2": 610,
+      "y2": 569,
+      "area_px": 116283
+    },
+    "gps": {
+      "lat": 12.935497,
+      "lng": 77.62486
+    }
+  },
+  {
+    "id": "RW-0034",
+    "frame": 510,
+    "severity": "Critical",
+    "confidence": 0.456,
+    "status": "pending",
+    "timestamp": "2026-04-03T21:36:37",
+    "deadline": "2026-04-10",
+    "ward": "Koramangala, Bengaluru",
+    "politician": "N A Haris",
+    "bbox": {
+      "x1": 160,
+      "y1": 328,
+      "x2": 619,
+      "y2": 570,
+      "area_px": 111078
+    },
+    "gps": {
+      "lat": 12.935395,
+      "lng": 77.628205
+    }
+  },
+  {
+    "id": "RW-0035",
+    "frame": 510,
+    "severity": "Critical",
+    "confidence": 0.272,
+    "status": "pending",
+    "timestamp": "2026-04-03T21:36:37",
+    "deadline": "2026-04-10",
+    "ward": "Koramangala, Bengaluru",
+    "politician": "Sowmya Reddy",
+    "bbox": {
+      "x1": 168,
+      "y1": 301,
+      "x2": 908,
+      "y2": 574,
+      "area_px": 202020
+    },
+    "gps": {
+      "lat": 12.929184,
+      "lng": 77.63171
+    }
+  },
+  {
+    "id": "RW-0036",
+    "frame": 515,
+    "severity": "Critical",
+    "confidence": 0.408,
+    "status": "pending",
+    "timestamp": "2026-04-03T21:36:37",
+    "deadline": "2026-04-10",
+    "ward": "Koramangala, Bengaluru",
+    "politician": "Rizwan Arshad",
+    "bbox": {
+      "x1": 184,
+      "y1": 364,
+      "x2": 631,
+      "y2": 567,
+      "area_px": 90741
+    },
+    "gps": {
+      "lat": 12.932318,
+      "lng": 77.623933
+    }
+  },
+  {
+    "id": "RW-0037",
+    "frame": 520,
+    "severity": "Critical",
+    "confidence": 0.352,
+    "status": "pending",
+    "timestamp": "2026-04-03T21:36:37",
+    "deadline": "2026-04-10",
+    "ward": "Koramangala, Bengaluru",
+    "politician": "Sowmya Reddy",
+    "bbox": {
+      "x1": 184,
+      "y1": 369,
+      "x2": 639,
+      "y2": 569,
+      "area_px": 91000
+    },
+    "gps": {
+      "lat": 12.935223,
+      "lng": 77.617804
+    }
+  },
+  {
+    "id": "RW-0038",
+    "frame": 530,
+    "severity": "Critical",
+    "confidence": 0.26,
+    "status": "pending",
+    "timestamp": "2026-04-03T21:36:37",
+    "deadline": "2026-04-10",
+    "ward": "Koramangala, Bengaluru",
+    "politician": "Ramalinga Reddy",
+    "bbox": {
+      "x1": 189,
+      "y1": 394,
+      "x2": 956,
+      "y2": 573,
+      "area_px": 137293
+    },
+    "gps": {
+      "lat": 12.929455,
+      "lng": 77.628
+    }
+  },
+  {
+    "id": "RW-0039",
+    "frame": 535,
+    "severity": "Critical",
+    "confidence": 0.323,
+    "status": "pending",
+    "timestamp": "2026-04-03T21:36:37",
+    "deadline": "2026-04-10",
+    "ward": "Koramangala, Bengaluru",
+    "politician": "Ramalinga Reddy",
+    "bbox": {
+      "x1": 235,
+      "y1": 422,
+      "x2": 973,
+      "y2": 576,
+      "area_px": 113652
+    },
+    "gps": {
+      "lat": 12.941098,
+      "lng": 77.627935
+    }
+  },
+  {
+    "id": "RW-0040",
+    "frame": 540,
+    "severity": "Critical",
+    "confidence": 0.315,
+    "status": "pending",
+    "timestamp": "2026-04-03T21:36:37",
+    "deadline": "2026-04-10",
+    "ward": "Koramangala, Bengaluru",
+    "politician": "Ramalinga Reddy",
+    "bbox": {
+      "x1": 247,
+      "y1": 432,
+      "x2": 917,
+      "y2": 576,
+      "area_px": 96480
+    },
+    "gps": {
+      "lat": 12.93531,
+      "lng": 77.630333
+    }
+  },
+  {
+    "id": "RW-0041",
+    "frame": 545,
+    "severity": "Critical",
+    "confidence": 0.287,
+    "status": "pending",
+    "timestamp": "2026-04-03T21:36:37",
+    "deadline": "2026-04-10",
+    "ward": "Koramangala, Bengaluru",
+    "politician": "N A Haris",
+    "bbox": {
+      "x1": 202,
+      "y1": 478,
+      "x2": 850,
+      "y2": 570,
+      "area_px": 59616
+    },
+    "gps": {
+      "lat": 12.930056,
+      "lng": 77.617638
+    }
+  },
+  {
+    "id": "RW-0042",
+    "frame": 770,
+    "severity": "Critical",
+    "confidence": 0.257,
+    "status": "pending",
+    "timestamp": "2026-04-03T21:36:42",
+    "deadline": "2026-04-10",
+    "ward": "Koramangala, Bengaluru",
+    "politician": "Sowmya Reddy",
+    "bbox": {
+      "x1": 419,
+      "y1": 424,
+      "x2": 1154,
+      "y2": 576,
+      "area_px": 111720
+    },
+    "gps": {
+      "lat": 12.937942,
+      "lng": 77.618156
+    }
+  },
+  {
+    "id": "RW-0043",
+    "frame": 780,
+    "severity": "Critical",
+    "confidence": 0.326,
+    "status": "pending",
+    "timestamp": "2026-04-03T21:36:42",
+    "deadline": "2026-04-10",
+    "ward": "Koramangala, Bengaluru",
+    "politician": "Ramalinga Reddy",
+    "bbox": {
+      "x1": 525,
+      "y1": 487,
+      "x2": 1139,
+      "y2": 566,
+      "area_px": 48506
+    },
+    "gps": {
+      "lat": 12.937826,
+      "lng": 77.621983
+    }
+  },
+  {
+    "id": "RW-0044",
+    "frame": 780,
+    "severity": "Critical",
+    "confidence": 0.311,
+    "status": "pending",
+    "timestamp": "2026-04-03T21:36:42",
+    "deadline": "2026-04-10",
+    "ward": "Koramangala, Bengaluru",
+    "politician": "Ramalinga Reddy",
+    "bbox": {
+      "x1": 504,
+      "y1": 244,
+      "x2": 695,
+      "y2": 369,
+      "area_px": 23875
+    },
+    "gps": {
+      "lat": 12.927316,
+      "lng": 77.630798
+    }
+  },
+  {
+    "id": "RW-0045",
+    "frame": 785,
+    "severity": "Critical",
+    "confidence": 0.363,
+    "status": "pending",
+    "timestamp": "2026-04-03T21:36:42",
+    "deadline": "2026-04-10",
+    "ward": "Koramangala, Bengaluru",
+    "politician": "Sowmya Reddy",
+    "bbox": {
+      "x1": 545,
+      "y1": 243,
+      "x2": 749,
+      "y2": 378,
+      "area_px": 27540
+    },
+    "gps": {
+      "lat": 12.934146,
+      "lng": 77.621219
+    }
+  },
+  {
+    "id": "RW-0046",
+    "frame": 785,
+    "severity": "Critical",
+    "confidence": 0.266,
+    "status": "pending",
+    "timestamp": "2026-04-03T21:36:42",
+    "deadline": "2026-04-10",
+    "ward": "Koramangala, Bengaluru",
+    "politician": "N A Haris",
+    "bbox": {
+      "x1": 815,
+      "y1": 535,
+      "x2": 1053,
+      "y2": 576,
+      "area_px": 9758
+    },
+    "gps": {
+      "lat": 12.92855,
+      "lng": 77.625323
+    }
+  },
+  {
+    "id": "RW-0047",
+    "frame": 790,
+    "severity": "Critical",
+    "confidence": 0.428,
+    "status": "pending",
+    "timestamp": "2026-04-03T21:36:42",
+    "deadline": "2026-04-10",
+    "ward": "Koramangala, Bengaluru",
+    "politician": "N A Haris",
+    "bbox": {
+      "x1": 583,
+      "y1": 240,
+      "x2": 793,
+      "y2": 407,
+      "area_px": 35070
+    },
+    "gps": {
+      "lat": 12.938249,
+      "lng": 77.621842
+    }
+  },
+  {
+    "id": "RW-0048",
+    "frame": 795,
+    "severity": "Critical",
+    "confidence": 0.473,
+    "status": "pending",
+    "timestamp": "2026-04-03T21:36:42",
+    "deadline": "2026-04-10",
+    "ward": "Koramangala, Bengaluru",
+    "politician": "N A Haris",
+    "bbox": {
+      "x1": 611,
+      "y1": 238,
+      "x2": 834,
+      "y2": 439,
+      "area_px": 44823
+    },
+    "gps": {
+      "lat": 12.940479,
+      "lng": 77.623603
+    }
+  },
+  {
+    "id": "RW-0049",
+    "frame": 800,
+    "severity": "Critical",
+    "confidence": 0.64,
+    "status": "pending",
+    "timestamp": "2026-04-03T21:36:43",
+    "deadline": "2026-04-10",
+    "ward": "Koramangala, Bengaluru",
+    "politician": "Sowmya Reddy",
+    "bbox": {
+      "x1": 651,
+      "y1": 257,
+      "x2": 883,
+      "y2": 461,
+      "area_px": 47328
+    },
+    "gps": {
+      "lat": 12.934544,
+      "lng": 77.619263
+    }
+  },
+  {
+    "id": "RW-0050",
+    "frame": 805,
+    "severity": "Critical",
+    "confidence": 0.711,
+    "status": "pending",
+    "timestamp": "2026-04-03T21:36:43",
+    "deadline": "2026-04-10",
+    "ward": "Koramangala, Bengaluru",
+    "politician": "Rizwan Arshad",
+    "bbox": {
+      "x1": 660,
+      "y1": 263,
+      "x2": 907,
+      "y2": 482,
+      "area_px": 54093
+    },
+    "gps": {
+      "lat": 12.93681,
+      "lng": 77.628123
+    }
+  },
+  {
+    "id": "RW-0051",
+    "frame": 810,
+    "severity": "Critical",
+    "confidence": 0.768,
+    "status": "pending",
+    "timestamp": "2026-04-03T21:36:43",
+    "deadline": "2026-04-10",
+    "ward": "Koramangala, Bengaluru",
+    "politician": "Rizwan Arshad",
+    "bbox": {
+      "x1": 636,
+      "y1": 265,
+      "x2": 928,
+      "y2": 532,
+      "area_px": 77964
+    },
+    "gps": {
+      "lat": 12.937431,
+      "lng": 77.62147
+    }
+  },
+  {
+    "id": "RW-0052",
+    "frame": 815,
+    "severity": "Critical",
+    "confidence": 0.73,
+    "status": "pending",
+    "timestamp": "2026-04-03T21:36:43",
+    "deadline": "2026-04-10",
+    "ward": "Koramangala, Bengaluru",
+    "politician": "Sowmya Reddy",
+    "bbox": {
+      "x1": 648,
+      "y1": 291,
+      "x2": 954,
+      "y2": 573,
+      "area_px": 86292
+    },
+    "gps": {
+      "lat": 12.940354,
+      "lng": 77.619158
+    }
+  },
+  {
+    "id": "RW-0053",
+    "frame": 820,
+    "severity": "Critical",
+    "confidence": 0.701,
+    "status": "pending",
+    "timestamp": "2026-04-03T21:36:43",
+    "deadline": "2026-04-10",
+    "ward": "Koramangala, Bengaluru",
+    "politician": "Sowmya Reddy",
+    "bbox": {
+      "x1": 694,
+      "y1": 331,
+      "x2": 1005,
+      "y2": 574,
+      "area_px": 75573
+    },
+    "gps": {
+      "lat": 12.931211,
+      "lng": 77.626406
+    }
+  },
+  {
+    "id": "RW-0054",
+    "frame": 825,
+    "severity": "Critical",
+    "confidence": 0.59,
+    "status": "pending",
+    "timestamp": "2026-04-03T21:36:43",
+    "deadline": "2026-04-10",
+    "ward": "Koramangala, Bengaluru",
+    "politician": "Rizwan Arshad",
+    "bbox": {
+      "x1": 728,
+      "y1": 360,
+      "x2": 1031,
+      "y2": 566,
+      "area_px": 62418
+    },
+    "gps": {
+      "lat": 12.936303,
+      "lng": 77.632019
+    }
+  },
+  {
+    "id": "RW-0055",
+    "frame": 830,
+    "severity": "Critical",
+    "confidence": 0.367,
+    "status": "pending",
+    "timestamp": "2026-04-03T21:36:43",
+    "deadline": "2026-04-10",
+    "ward": "Koramangala, Bengaluru",
+    "politician": "Sowmya Reddy",
+    "bbox": {
+      "x1": 754,
+      "y1": 428,
+      "x2": 1042,
+      "y2": 574,
+      "area_px": 42048
+    },
+    "gps": {
+      "lat": 12.936322,
+      "lng": 77.623537
+    }
+  },
+  {
+    "id": "RW-0056",
+    "frame": 950,
+    "severity": "Critical",
+    "confidence": 0.313,
+    "status": "pending",
+    "timestamp": "2026-04-03T21:36:46",
+    "deadline": "2026-04-10",
+    "ward": "Koramangala, Bengaluru",
+    "politician": "Sowmya Reddy",
+    "bbox": {
+      "x1": 569,
+      "y1": 419,
+      "x2": 1054,
+      "y2": 576,
+      "area_px": 76145
+    },
+    "gps": {
+      "lat": 12.932262,
+      "lng": 77.628278
+    }
+  },
+  {
+    "id": "RW-0057",
+    "frame": 955,
+    "severity": "Critical",
+    "confidence": 0.345,
+    "status": "pending",
+    "timestamp": "2026-04-03T21:36:47",
+    "deadline": "2026-04-10",
+    "ward": "Koramangala, Bengaluru",
+    "politician": "N A Haris",
+    "bbox": {
+      "x1": 553,
+      "y1": 431,
+      "x2": 1026,
+      "y2": 576,
+      "area_px": 68585
+    },
+    "gps": {
+      "lat": 12.937175,
+      "lng": 77.630271
+    }
+  },
+  {
+    "id": "RW-0058",
+    "frame": 955,
+    "severity": "Critical",
+    "confidence": 0.265,
+    "status": "pending",
+    "timestamp": "2026-04-03T21:36:47",
+    "deadline": "2026-04-10",
+    "ward": "Koramangala, Bengaluru",
+    "politician": "Ramalinga Reddy",
+    "bbox": {
+      "x1": 625,
+      "y1": 23,
+      "x2": 1063,
+      "y2": 366,
+      "area_px": 150234
+    },
+    "gps": {
+      "lat": 12.93042,
+      "lng": 77.619812
+    }
+  },
+  {
+    "id": "RW-0059",
+    "frame": 960,
+    "severity": "Critical",
+    "confidence": 0.396,
+    "status": "pending",
+    "timestamp": "2026-04-03T21:36:47",
+    "deadline": "2026-04-10",
+    "ward": "Koramangala, Bengaluru",
+    "politician": "N A Haris",
+    "bbox": {
+      "x1": 565,
+      "y1": 478,
+      "x2": 982,
+      "y2": 567,
+      "area_px": 37113
+    },
+    "gps": {
+      "lat": 12.932089,
+      "lng": 77.631342
+    }
+  },
+  {
+    "id": "RW-0060",
+    "frame": 960,
+    "severity": "Critical",
+    "confidence": 0.297,
+    "status": "pending",
+    "timestamp": "2026-04-03T21:36:47",
+    "deadline": "2026-04-10",
+    "ward": "Koramangala, Bengaluru",
+    "politician": "N A Haris",
+    "bbox": {
+      "x1": 588,
+      "y1": 17,
+      "x2": 1049,
+      "y2": 364,
+      "area_px": 159967
+    },
+    "gps": {
+      "lat": 12.92945,
+      "lng": 77.624911
+    }
+  },
+  {
+    "id": "RW-0061",
+    "frame": 965,
+    "severity": "Critical",
+    "confidence": 0.298,
+    "status": "pending",
+    "timestamp": "2026-04-03T21:36:47",
+    "deadline": "2026-04-10",
+    "ward": "Koramangala, Bengaluru",
+    "politician": "Rizwan Arshad",
+    "bbox": {
+      "x1": 537,
+      "y1": 484,
+      "x2": 929,
+      "y2": 564,
+      "area_px": 31360
+    },
+    "gps": {
+      "lat": 12.931618,
+      "lng": 77.61678
+    }
+  },
+  {
+    "id": "RW-0062",
+    "frame": 965,
+    "severity": "Critical",
+    "confidence": 0.266,
+    "status": "pending",
+    "timestamp": "2026-04-03T21:36:47",
+    "deadline": "2026-04-10",
+    "ward": "Koramangala, Bengaluru",
+    "politician": "Ramalinga Reddy",
+    "bbox": {
+      "x1": 548,
+      "y1": 13,
+      "x2": 1026,
+      "y2": 377,
+      "area_px": 173992
+    },
+    "gps": {
+      "lat": 12.940873,
+      "lng": 77.631954
+    }
+  },
+  {
+    "id": "RW-0063",
+    "frame": 970,
+    "severity": "Critical",
+    "confidence": 0.576,
+    "status": "pending",
+    "timestamp": "2026-04-03T21:36:47",
+    "deadline": "2026-04-10",
+    "ward": "Koramangala, Bengaluru",
+    "politician": "N A Haris",
+    "bbox": {
+      "x1": 565,
+      "y1": 18,
+      "x2": 1009,
+      "y2": 426,
+      "area_px": 181152
+    },
+    "gps": {
+      "lat": 12.936529,
+      "lng": 77.616759
+    }
+  },
+  {
+    "id": "RW-0064",
+    "frame": 975,
+    "severity": "Critical",
+    "confidence": 0.48,
+    "status": "pending",
+    "timestamp": "2026-04-03T21:36:47",
+    "deadline": "2026-04-10",
+    "ward": "Koramangala, Bengaluru",
+    "politician": "Sowmya Reddy",
+    "bbox": {
+      "x1": 562,
+      "y1": 23,
+      "x2": 962,
+      "y2": 460,
+      "area_px": 174800
+    },
+    "gps": {
+      "lat": 12.9274,
+      "lng": 77.619048
+    }
+  },
+  {
+    "id": "RW-0065",
+    "frame": 980,
+    "severity": "Critical",
+    "confidence": 0.377,
+    "status": "pending",
+    "timestamp": "2026-04-03T21:36:47",
+    "deadline": "2026-04-10",
+    "ward": "Koramangala, Bengaluru",
+    "politician": "Rizwan Arshad",
+    "bbox": {
+      "x1": 490,
+      "y1": 55,
+      "x2": 948,
+      "y2": 541,
+      "area_px": 222588
+    },
+    "gps": {
+      "lat": 12.927748,
+      "lng": 77.626835
+    }
+  },
+  {
+    "id": "RW-0066",
+    "frame": 985,
+    "severity": "Critical",
+    "confidence": 0.371,
+    "status": "pending",
+    "timestamp": "2026-04-03T21:36:47",
+    "deadline": "2026-04-10",
+    "ward": "Koramangala, Bengaluru",
+    "politician": "Rizwan Arshad",
+    "bbox": {
+      "x1": 472,
+      "y1": 46,
+      "x2": 940,
+      "y2": 546,
+      "area_px": 234000
+    },
+    "gps": {
+      "lat": 12.932943,
+      "lng": 77.617912
+    }
+  },
+  {
+    "id": "RW-0067",
+    "frame": 990,
+    "severity": "Critical",
+    "confidence": 0.313,
+    "status": "pending",
+    "timestamp": "2026-04-03T21:36:47",
+    "deadline": "2026-04-10",
+    "ward": "Koramangala, Bengaluru",
+    "politician": "Rizwan Arshad",
+    "bbox": {
+      "x1": 401,
+      "y1": 49,
+      "x2": 885,
+      "y2": 576,
+      "area_px": 255068
+    },
+    "gps": {
+      "lat": 12.932679,
+      "lng": 77.630642
+    }
+  },
+  {
+    "id": "RW-0068",
+    "frame": 1030,
+    "severity": "Critical",
+    "confidence": 0.286,
+    "status": "pending",
+    "timestamp": "2026-04-03T21:36:48",
+    "deadline": "2026-04-10",
+    "ward": "Koramangala, Bengaluru",
+    "politician": "Ramalinga Reddy",
+    "bbox": {
+      "x1": 350,
+      "y1": 323,
+      "x2": 872,
+      "y2": 574,
+      "area_px": 131022
+    },
+    "gps": {
+      "lat": 12.938984,
+      "lng": 77.619636
+    }
+  },
+  {
+    "id": "RW-0069",
+    "frame": 1080,
+    "severity": "Critical",
+    "confidence": 0.329,
+    "status": "pending",
+    "timestamp": "2026-04-03T21:36:49",
+    "deadline": "2026-04-10",
+    "ward": "Koramangala, Bengaluru",
+    "politician": "N A Haris",
+    "bbox": {
+      "x1": 312,
+      "y1": 250,
+      "x2": 594,
+      "y2": 576,
+      "area_px": 91932
+    },
+    "gps": {
+      "lat": 12.927703,
+      "lng": 77.632038
+    }
+  },
+  {
+    "id": "RW-0070",
+    "frame": 1085,
+    "severity": "Critical",
+    "confidence": 0.281,
+    "status": "pending",
+    "timestamp": "2026-04-03T21:36:49",
+    "deadline": "2026-04-10",
+    "ward": "Koramangala, Bengaluru",
+    "politician": "Sowmya Reddy",
+    "bbox": {
+      "x1": 300,
+      "y1": 346,
+      "x2": 507,
+      "y2": 574,
+      "area_px": 47196
+    },
+    "gps": {
+      "lat": 12.937039,
+      "lng": 77.618984
+    }
+  },
+  {
+    "id": "RW-0071",
+    "frame": 1085,
+    "severity": "Critical",
+    "confidence": 0.266,
+    "status": "pending",
+    "timestamp": "2026-04-03T21:36:49",
+    "deadline": "2026-04-10",
+    "ward": "Koramangala, Bengaluru",
+    "politician": "Ramalinga Reddy",
+    "bbox": {
+      "x1": 299,
+      "y1": 263,
+      "x2": 590,
+      "y2": 576,
+      "area_px": 91083
+    },
+    "gps": {
+      "lat": 12.939257,
+      "lng": 77.631786
+    }
+  },
+  {
+    "id": "RW-0072",
+    "frame": 1115,
+    "severity": "Critical",
+    "confidence": 0.312,
+    "status": "pending",
+    "timestamp": "2026-04-03T21:36:50",
+    "deadline": "2026-04-10",
+    "ward": "Koramangala, Bengaluru",
+    "politician": "Ramalinga Reddy",
+    "bbox": {
+      "x1": 320,
+      "y1": 236,
+      "x2": 568,
+      "y2": 576,
+      "area_px": 84320
+    },
+    "gps": {
+      "lat": 12.932895,
+      "lng": 77.632152
+    }
+  }
+]
